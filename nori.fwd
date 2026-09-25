@@ -1,7 +1,7 @@
 {
   "title": "nori的模块合集",
   "description": "实用组件",
-  "icon": "https://raw.githubusercontent.com/nori5555/ForwardWidgets/refs/heads/main/xiaohei.PNG",
+  "icon": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/xiaohei.PNG",
   "widgets": [
     {
       "id": "nori5555.widget.thunder",
@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nori5555",
-      "url": "https://raw.githubusercontent.com/nori5555/ForwardWidgets/refs/heads/main/thunder.js"
+      "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/thunder.js"
     },
     {
       "id": "nori5555.widget.miss",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nori5555",
-      "url": "https://raw.githubusercontent.com/nori5555/ForwardWidgets/refs/heads/main/miss.js"
+      "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/miss.js"
     },
     {
       "id": "nori5555.widget.mission",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nori5555",
-      "url": "https://raw.githubusercontent.com/nori5555/ForwardWidgets/refs/heads/main/missovo.js"
+      "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/missovo.js"
     },
     {
       "id": "nori5555.widget.pron",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nori5555",
-      "url": "https://raw.githubusercontent.com/nori5555/ForwardWidgets/refs/heads/main/pron.js"
+      "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/pron.js"
     },
     {
       "id": "nori5555.widget.x",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nori5555",
-      "url": "https://raw.githubusercontent.com/nori5555/ForwardWidgets/refs/heads/main/xvideo.js"
+      "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/xvideo.js"
     },
     {
       "id": "nori5555.widget.han",
@@ -55,7 +55,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nori5555",
-      "url": "https://raw.githubusercontent.com/nori5555/ForwardWidgets/refs/heads/main/han.js"
+      "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/han.js"
     },   
     {
       "id": "nori5555.widget.hanime",
@@ -64,7 +64,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nori5555",
-      "url": "https://raw.githubusercontent.com/nori5555/ForwardWidgets/refs/heads/main/hanime.js"
+      "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/hanime.js"
     }
   ]
 }
