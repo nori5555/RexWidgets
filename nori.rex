@@ -56,6 +56,15 @@
       "version": "1.0.0",
       "author": "nori5555",
       "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/han.js"
+    },
+    {
+      "id": "nori5555.widget.shooter",
+      "title": "shooter",
+      "description": "shooter",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "nori5555",
+      "url": "https://raw.githubusercontent.com/nori5555/RexWidgets/refs/heads/main/shoot.js"
     },   
     {
       "id": "nori5555.widget.hanime",
